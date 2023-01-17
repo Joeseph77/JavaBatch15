@@ -1,0 +1,24 @@
+Git Commands
+
+
+pwd
+git init
+git add .
+git status
+git log
+git commit -m "message"
+git remote -v (to check connection)
+git push
+"git rm --cached<file>...." to unstage ??
+
+
+git remote (add origin URL)
+git branch -M main --> will tell later why we use (first time)
+git push -u origin main (the first time, then later just git push)
+
+
+- to delete wrong connection:-
+git remote remove origin
+
+then, add a new connection using the command:-
+git remote add origin URL ( to get the link from github)

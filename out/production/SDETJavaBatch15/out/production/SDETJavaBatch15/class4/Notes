@@ -1,0 +1,7 @@
+if condition works on the relational operators (like cars work on tires)
+
+String ==; is not stable, it works sometimes and sometimes doesn't, not reliable, instead use name.equals()
+equals() is used with non-primitives data
+
+ctrl+Alt+L to format the code
+Ctrl+tab to switch between different tabs

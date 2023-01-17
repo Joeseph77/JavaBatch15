@@ -1,0 +1,20 @@
+1) Create a Java program(A class with main method) and name it Practice Variables In your program create variables
+to store all different types of primitive data to test the range Print the value of each variable.
+
+
+2) Create a Java program and name it VariableValues In your program create variables to store all different types of primitive data.
+Update(reassign) value of each variable Print the value of each variable
+
+3) Create a Java program and name it Variables In your program create different type of variables to store
+student’s information and then print value of those variables: name lastName grade city state phoneNumber
+b) Change student’s city, state, phone number and grade. And print those updated values.
+
+4) Write a Java program to add, subtract, multiply and divide 2 decimal values. Your program should say.
+ “The __ of 2 numbers __ and is equal to __” Expected Output: The Addition of 2 numbers 10.5 and 10.5 is equal to 21.0
+ The Subtraction of 2 numbers 10.5 and 10.5 is equal to 0.0 The Multiplication of 2 numbers 10.5 and 10.5 is equal to 110.25
+ The Division of 2 numbers 10.5 and 10.5 is equal to 1.0 Write a program to find the square of the number 3.9.
+  You program should say “The square of the is “ Expected output: The square of the 3.9 is 15.209999999999999
+
+5) Write a program to print the area and perimeter of a rectangle with width = 5 and height = 8.
+Your program should say. “The perimeter of a rectangle with width and height __ is equal to __ and the area is __”
+The perimeter of a rectangle with width 5.0 and height 8.0 is equal to 26.0 and the area is 40.0
